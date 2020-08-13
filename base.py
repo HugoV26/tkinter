@@ -16,9 +16,6 @@ def open():
 
 btn = Button(root, text = "Open Second Window", command = open).pack()
 
-
-
-
 root.mainloop()
 
 #60:38:E0:91:94:C8
