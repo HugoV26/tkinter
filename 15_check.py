@@ -15,8 +15,6 @@ c = Checkbutton(root, text = "Check this", variable = var, onvalue = "On", offva
 c.deselect()
 c.pack()
 
-
-
 myButton = Button(root, text = "Show selection", command = show).pack()
 
 
